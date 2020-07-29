@@ -1,85 +1,76 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Entretenimento",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "GoPro Surf: Discovering the Mentawais",
+          "url": "https://www.youtube.com/watch?v=jMwNXQFcBB4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "New Zealand in 4K Ultra HD",
+          "url": "https://www.youtube.com/watch?v=8jypK2U1AM0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "People Are Awesome",
+          "url": "https://www.youtube.com/watch?v=xsRvPO8uhOc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "100 SHOTS AT WORLD'S SMALLEST GOAL IN THE TOP CORNER",
+          "url": "https://www.youtube.com/watch?v=L4dgjsVT31Q"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Skateboarding NYC",
+          "url": "https://www.youtube.com/watch?v=M7J8Skqb53A"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Fearless Surfers of Honolua Bay",
+          "url": "https://www.youtube.com/watch?v=zd4EIXDjEJ4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "GoPro: Chasing AdVANture",
+          "url": "https://www.youtube.com/watch?v=PNs68O5JSKg"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "GoPro: Behind Dark Matter",
+          "url": "https://www.youtube.com/watch?v=_OMar04NRZw"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Músicas",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Sticky Fingers - Cyclone",
+          "url": "https://www.youtube.com/watch?v=zzHouyi6t4g"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Braza - Ela Me Chamou Para Dançar Um Ragga",
+          "url": "https://www.youtube.com/watch?v=8y0jHTlyp6o"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Rael - Medley Acústica",
+          "url": "https://www.youtube.com/watch?v=UZoJ6fVbOcQ"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Armandinho part Izenzêê - Eu sou do Mar",
+          "url": "https://www.youtube.com/watch?v=YxwaftbSACQ"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Ocean Alley - Knees",
+          "url": "https://www.youtube.com/watch?v=v-m5RTM8d6A"
+        },
+        {
+          "titulo": "O Rappa - Uma Vida Só",
+          "url": "https://www.youtube.com/watch?v=VlxJqiSDf6U"
         }
       ]
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
           "titulo": "Teste de Turing",
@@ -124,10 +115,6 @@
     {
       "titulo": "Games",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -154,10 +141,6 @@
     {
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
           "titulo": "Como estudar melhor?",
