@@ -32,7 +32,6 @@ function CadastroCategoria() {
     }
 
     useEffect(() => {
-        console.log('entrou useefecctet')
         const URL = 'http://localhost:8080/categorias'
 
         fetch(URL)
