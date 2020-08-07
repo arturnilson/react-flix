@@ -2,15 +2,20 @@
     "categorias": [
         {
             "id": 1,
-            "nome": "Teste",
-            "descricao": "Testando db",
-            "cor": "#ff00ff"
-        },
+            "titulo": "Front End",
+            "cor": "#6BD1FF",
+            "link_extra": {
+                "text": "Formação de Front End na Alura",
+                "url": "https://www.alura.com.br/cursos-online-front-end"
+            }
+        }
+    ],
+    "videos": [
         {
-            "id": 2,
-            "nome": "Teste 2",
-            "descricao": "Testando db2",
-            "cor": "#cbd1ff"
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "SEO com React",
+            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         }
     ]
 }
